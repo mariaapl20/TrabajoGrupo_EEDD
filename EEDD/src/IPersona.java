@@ -9,3 +9,4 @@ public interface IPersona {
 	public String getsNombre();
 	public void setsNombre(String sNombre);
 }
+//Interfaz_Persona

@@ -5,3 +5,4 @@ public interface ITrabajador {
 	public int getiAntiguedad();
 	public void setiAntiguedad(int iAntiguedad);
 }
+//Interfaz_Trabajador 

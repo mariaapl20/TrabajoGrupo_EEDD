@@ -7,4 +7,4 @@ public interface IProfesor {
 	public boolean isbFuncionario();
 	public void setbFuncionario(boolean bFuncionario);
 }
-//Interfaz_Profesor
+//Interfaz_Profesor_

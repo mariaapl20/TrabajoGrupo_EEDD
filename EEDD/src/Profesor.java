@@ -1,4 +1,4 @@
-//
+//_
 public class Profesor implements IPersona, ITrabajador, IProfesor{
 
 	private String sNombre, sApellidos, sDni, sUniversidad;
